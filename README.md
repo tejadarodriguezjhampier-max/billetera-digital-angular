@@ -1,3 +1,9 @@
+Integrantes
+CARLOS MANUEL BOBADILLA CALDERON
+ENZO FRANCESCO PASTOR BUSTAMANTE
+HEBERTH DANIEL AGUILAR CARRANZA
+JAVIER JHAMPIER TEJADA RODRIGUEZ
+MARCO ALEJANDRO CABALLERO RIOS
 # Caso 2 (Angular): Billetera Digital — Pago y Movimientos
 
 Aplicación web desarrollada en **Angular** con **Bootstrap 5** para la gestión de saldo e historial de movimientos (recargas y gastos) mediante arquitectura padre-hijo (`BilleteraComponent` y `NuevoMovimientoComponent`).
